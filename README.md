@@ -1,4 +1,9 @@
-# Remote Work Robot Platform - ソーシャルビジネスプロジェクト
+# Covarmaille（カバーメイル）
+
+**Remote Work Robot Platform - ソーシャルビジネスプロジェクト**
+
+> *Covar（Cover + Armor）+ maille（仏：鎧）*  
+> 身体的制約を「補い」、人を守る技術の「鎧」として、すべての人に働く機会を。
 
 ## 🎯 ミッション
 ALS患者や身体的制約により外出困難な方々に、ロボット技術を通じた新しい働き方を提供し、社会参加と経済的自立を実現する。
@@ -71,4 +76,5 @@ OriHimeを超える汎用性を持つロボットシステム：
 
 ---
 
-**Last Updated:** 2026年2月2日
+**会社名:** Covarmaille（コバーメイユ）  
+**Last Updated:** 2026年2月3日
